@@ -12,10 +12,10 @@ A modern and responsive food recipe web application built using **Vite + React J
 
 ## 🔧 Tech Stack
 
--   ⚡ **Vite** — Super fast dev server
--   ⚛️ **React JS** (Javascript Clientside Library)
--   🧠 **Context API** — Lightweight global state
--   🔥 **Firebase** — Firestore DB
+- ⚡ **Vite** — Super fast build tool and development server
+- ⚛️ **React JS** — JavaScript client-side library for building UIs
+- 🧠 **Context API** — Lightweight built-in state management in React
+- 🔥 **Firebase** — Backend-as-a-Service used here for Firestore database
 
 ---
 
